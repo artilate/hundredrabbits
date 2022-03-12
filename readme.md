@@ -20,7 +20,7 @@
 Rosé Pine Moon is not included because part of the normal Rosé Pine theme needed to use Moon template colors.
 
 ## Gallery
-| Rosé Pine | Rosé Pine Dawn |
+| Rosé Pine with TAPE | Rosé Pine Dawn with TAPE|
 |---|---|
 |![Rosé Pine with TAPE](assets/rose-pine.png)|![Rosé Pine Dawn with TAPE](assets/rose-pine-dawn.png)|
 
